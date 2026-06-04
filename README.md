@@ -4,4 +4,4 @@
 ---
 || Version | Build Version            || Release Date | Engine Version ||  Download Links  
 ---
-**| 6.2.2 | 6.22-CL-4543176 | 04-11-2018 | UE4.21-4543176 | `.rar` | [📥 Download ](https://builds.rebootfn.org/6.22.rar)**
+| 10.31 | 10.31-CL-8723043 | 18-09-2019 | UE4.23 | `.zip` |  [📥 Download](https://builds.rebootfn.org/10.31.zip) | None |
